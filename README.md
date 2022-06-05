@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/HenryAgu/flyotheme.git)
-- Live Site URL: (https://gentle-kangaroo-228531.netlify.app/)
+- Live Site URL: (https://euphonious-palmier-6b39e3.netlify.app/)
 
 ## My process
 
